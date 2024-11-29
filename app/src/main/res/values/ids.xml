@@ -9,4 +9,5 @@
     <item name="viewPager" type="id">viewPager</item>
     <item name="tabLayout" type="id">tabLayout</item>
     <item name="splash_image" type="id">splash_image</item>
+    <item name="username_text" type="id">username_text</item>
 </resources>
