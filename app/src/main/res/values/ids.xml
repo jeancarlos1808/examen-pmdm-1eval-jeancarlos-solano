@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_display" type="id">text_display</item>
+    <item name="button_update" type="id">button_update</item>
+    <item name="button_alert" type="id">button_alert</item>
+    <item name="username_input" type="id">username_input</item>
+    <item name="login_button" type="id">login_button</item>
+    <item name="password_input" type="id">password_input</item>
+    <item name="viewPager" type="id">viewPager</item>
+    <item name="tabLayout" type="id">tabLayout</item>
+    <item name="splash_image" type="id">splash_image</item>
+</resources>
